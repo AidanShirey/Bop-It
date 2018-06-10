@@ -2,10 +2,10 @@
 // Author : Aidan Shirey
 
 
-#include "stdafx.h"
+
 #include <sapi.h>
 #include <string>
-#include "time.h"
+#include <ctime>
 #include <iostream>
 #include <windows.h>
 
